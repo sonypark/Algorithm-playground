@@ -9,6 +9,7 @@ for i in range(n-1):
 print(max(sumList))
 
 
+
 '''
 10
 10 -4 3 1 5 6 -35 12 21 -1
