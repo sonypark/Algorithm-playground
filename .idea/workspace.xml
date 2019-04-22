@@ -10,20 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/step2/2-1/maxSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="253">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/step2/2-1/star-shooting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -95,7 +95,6 @@
         <option value="$PROJECT_DIR$/190403-Algorithm-return.py" />
         <option value="$PROJECT_DIR$/step2/recusion.md" />
         <option value="$PROJECT_DIR$/step2/2-2/selfNumber.py" />
-        <option value="$PROJECT_DIR$/step2/2-1/star-shooting.py" />
         <option value="$PROJECT_DIR$/step2/2-2/KthNumber.py" />
         <option value="$PROJECT_DIR$/step2/2-3/sortInside.py" />
         <option value="$PROJECT_DIR$/step2/2-4/iamChef.py" />
@@ -103,6 +102,7 @@
         <option value="$PROJECT_DIR$/step2/2-5/divideNumto1.py" />
         <option value="$PROJECT_DIR$/step2/2-5/leftRotation.py" />
         <option value="$PROJECT_DIR$/step2/2-1/maxSum.py" />
+        <option value="$PROJECT_DIR$/step2/2-1/star-shooting.py" />
       </list>
     </option>
   </component>
@@ -272,16 +272,15 @@
       <workItem from="1554269830568" duration="4709000" />
       <workItem from="1554896701913" duration="1224000" />
       <workItem from="1554967128664" duration="9000" />
-      <workItem from="1555826877133" duration="442000" />
+      <workItem from="1555826877133" duration="829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6384000" />
+    <option name="totallyTimeSpent" value="6771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.260745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -340,13 +339,6 @@
     <entry file="file://$PROJECT_DIR$/step2/2-2/selfNumber.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/step2/2-1/star-shooting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/step2/2-2/KthNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -391,8 +383,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/step2/2-1/maxSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step2/2-1/star-shooting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
