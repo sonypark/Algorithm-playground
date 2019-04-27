@@ -10,74 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step2/2-1/maxSum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/step2/2-1/star-shooting.py">
+        <entry file="file://$PROJECT_DIR$/BOJ/boj_10998.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step2/2-2/KthNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step2/2-3/sortInside.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step2/2-4/iamChef.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step2/2-4/maxNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="58" selection-start-column="58" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step2/2-5/divideNumto1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step2/2-5/leftRotation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -274,16 +211,18 @@
       <workItem from="1554967128664" duration="9000" />
       <workItem from="1555826877133" duration="829000" />
       <workItem from="1556274908070" duration="115000" />
+      <workItem from="1556343868189" duration="632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6886000" />
+    <option name="totallyTimeSpent" value="7518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26432666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26862463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,6 +284,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/step2/2-1/star-shooting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/step2/2-2/KthNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -387,10 +333,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/step2/2-1/star-shooting.py">
+    <entry file="file://$PROJECT_DIR$/BOJ/boj_10998.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
